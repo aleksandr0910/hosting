@@ -1,0 +1,31 @@
+h1{
+    color: blue ;
+}
+#GPH{
+    font-size: 40pt;
+}
+
+#bb{
+    background-color:rgb(143, 143, 143);
+    height:200px;
+    
+    
+}
+#prosG{
+    background-color:rgb(143, 143, 143);
+    height:200px;
+    text-align: center;
+    font-size: 15pt;
+  
+}
+
+#rep{
+    width:650px;
+}
+
+#pshell{
+    width:650px;
+}
+#link{
+    width:650px;
+}
