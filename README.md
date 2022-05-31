@@ -1,1 +1,2 @@
-# hosting av dokumentasjon på github og heroku, som vises github
+# hosting 
+av dokumentasjon på github og heroku, som vises på github pages
