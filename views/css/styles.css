@@ -5,9 +5,19 @@ h1{
     color: blue ;
 }
 #GPH{
-    font-size: 40pt;
+    font-size: 80pt;
 }
 
+
+#indexdiv{
+    margin-top: 40px;
+    text-align: center;
+    
+}
+
+#indexinfo{
+    margin-top: 200px;
+}
 #bb{
     background-color:rgb(225, 225, 225);
     height:200px;
@@ -15,17 +25,30 @@ h1{
     
 }
 
-#overstediv{
-    
+#herokuh1{
+    margin-top: 20px;
+    color:blueviolet
+}
+
+#innledning{
+    font-size: 17pt;
+}
+#check{
+    width: 50px;
 }
 #prosG{
     
-    background-color:rgb(233, 233, 233);
+   margin-top: 50px;
     height:200px;
     text-align: center;
     font-size: 15pt;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
+a:link{
+    
+    text-decoration: none;
+}
+
 
 #rep{
     width:650px;
@@ -36,4 +59,7 @@ h1{
 }
 #link{
     width:650px;
+}
+#paragraf{
+    font-size: 17pt;
 }
